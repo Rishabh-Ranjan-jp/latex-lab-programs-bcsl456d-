@@ -1,12 +1,13 @@
 \documentclass{article}
 \usepackage{array, booktabs, multicol, multirow}
 \renewcommand{\arraystretch}{1.1}
+
 \begin{document}
-	\centering
-	\textbf{\Large{Student Details and Marks}}
-	\vspace{0.1in}
+	
 	\begin{table}[h]
-		\centering
+		\centering  % Centers the entire table content
+		\textbf{\Large Student Details and Marks}
+		\vspace{0.1in}
 		\begin{tabular}{|c|c|c|c|c|c|}
 			\hline
 			\multirow{2}{*}{\textbf{S.No}} & \multirow{2}{*}{\textbf{USN}} &
@@ -14,18 +15,13 @@
 			\cline{4-6}
 			& & & \textbf{Microcontroller} & \textbf{Algorithms} & \textbf{Discrete Math} \\
 			\hline
-			\multicolumn{1}{|c|}{1} & \multicolumn{1}{c|}{1AH23CS123} & \multicolumn{1}{c|}{RISHABH} & 49 & 45 & 50 \\
+			1 & 1AH23CS123 & RISHABH & 49 & 45 & 50 \\
 			\hline
-			\multicolumn{1}{|c|}{2} & \multicolumn{1}{c|}{1AH23CS124} & \multicolumn{1}{c|}{KAVIN} & 40 & 50 & 43 \\
+			2 & 1AH23CS124 & KAVIN & 40 & 50 & 43 \\
 			\hline
-			\multicolumn{1}{|c|}{3} & \multicolumn{1}{c|}{1AH23C3S125} & \multicolumn{1}{c|}{SRIMATHI} & 33 & 32 & 50 \\
+			3 & 1AH23CS125 & SRIMATHI & 33 & 32 & 50 \\
 			\hline
 		\end{tabular}
 	\end{table}
+	
 \end{document}
-\section{LaTeX Code}
-\lstinputlisting[language=TeX]{./program5.tex}
-\section{LaTeX Code}
-\lstinputlisting[language=TeX]{./program5.tex}
-\section{LaTeX Source Code}
-\lstinputlisting[language=TeX]{./program5.tex}
