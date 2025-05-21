@@ -1,4 +1,3 @@
-```
 # 📄 LaTeX Lab Programs – BCSL456D
 
 This repository contains solutions to 12 lab programs for the course **Technical Writing using LaTeX (BCSL456D)** from **Semester 4, VTU**.
@@ -55,7 +54,7 @@ Each program demonstrates specific LaTeX concepts such as document structuring, 
 1. Clone the repo
    ```bash
    git clone https://github.com/Rishabh-Ranjan-jp/latex-lab-programs-bcsl456d
-````
+```
 
 2. Open any `.tex` file using **TeXstudio**.
 
@@ -67,6 +66,3 @@ Each program demonstrates specific LaTeX concepts such as document structuring, 
 
 This repository was created as part of the coursework for **BCSL456D (Technical Writing using LaTeX), Semester 4 at VTU**.
 It is intended purely for **academic reference**.
-
-```
-
