@@ -4,7 +4,7 @@ This repository contains solutions to 12 lab programs for the course **Technical
 
 Each program demonstrates specific LaTeX concepts such as document structuring, title pages, mathematical typesetting, tables, images, TikZ diagrams, bibliographies, and more. The aim is to help students build a solid foundation in professional document preparation using LaTeX.
 
-🔗 **Repo Link:** [latex-lab-programs-bcsl456d](https://github.com/Rishabh-Ranjan-jp/latex-lab-programs-bcsl456d)
+🔗 **Repo Link:** [latex-lab-programs-bcsl456d](https://github.com/Rishabh-Ranjan-jp/latex-lab-programs-bcsl456d-)
 
 ---
 
