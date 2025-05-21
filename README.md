@@ -52,7 +52,7 @@ Each program demonstrates specific LaTeX concepts such as document structuring, 
 ## 📦 How to Use
 
 1. Clone the repo
-   ```bash
+```bash
    git clone https://github.com/Rishabh-Ranjan-jp/latex-lab-programs-bcsl456d
 ```
 
